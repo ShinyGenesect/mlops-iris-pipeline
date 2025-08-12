@@ -217,5 +217,5 @@ The pipeline achieved excellent model performance (96.67% accuracy) while mainta
 **Project Team**: MLOps Engineering
 **Date**: August 2025
 **Status**: Production Ready
-**Repository**: [GitHub Link]
-**Docker Hub**: [Docker Hub Link]
+**Repository**: [https://github.com/ShinyGenesect/mlops-iris-pipeline]
+**Docker Hub**: [https://hub.docker.com/repository/docker/deepranatm/mlops_iris_pipeline_deepbits/general]
