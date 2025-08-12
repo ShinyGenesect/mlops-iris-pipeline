@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deeprana/Desktop/mlops-iris-pipeline/mlruns/848009249233482878/187ae18e402842d0b1999ac5b4ebe117/artifacts
+end_time: 1754989860300
+entry_point_name: ''
+experiment_id: '848009249233482878'
+lifecycle_stage: active
+run_id: 187ae18e402842d0b1999ac5b4ebe117
+run_name: logistic_regression
+run_uuid: 187ae18e402842d0b1999ac5b4ebe117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754989857966
+status: 3
+tags: []
+user_id: deeprana

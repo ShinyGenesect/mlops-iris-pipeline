@@ -1,0 +1,76 @@
+2025-08-12 09:20:13,216 - src.api - INFO - Model and preprocessor loaded successfully
+2025-08-12 09:20:17,748 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.001s
+2025-08-12 09:20:17,782 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.000s
+2025-08-12 09:20:17,898 - src.api - INFO - GET http://localhost:8000/model-info - 200 - 0.000s
+2025-08-12 09:20:18,032 - src.api - INFO - Prediction request: {'sepal_length': 5.1, 'sepal_width': 3.5, 'petal_length': 1.4, 'petal_width': 0.2}
+2025-08-12 09:20:18,035 - src.api - ERROR - Prediction error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- petal_length
+- petal_width
+- sepal_length
+- sepal_width
+Feature names seen at fit time, yet now missing:
+- petal length (cm)
+- petal width (cm)
+- sepal length (cm)
+- sepal width (cm)
+
+2025-08-12 09:20:18,036 - src.api - INFO - POST http://localhost:8000/predict - 500 - 0.005s
+2025-08-12 09:20:54,947 - src.api - INFO - Model and preprocessor loaded successfully
+2025-08-12 09:20:59,470 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.000s
+2025-08-12 09:20:59,502 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.000s
+2025-08-12 09:20:59,560 - src.api - INFO - GET http://localhost:8000/model-info - 200 - 0.001s
+2025-08-12 09:20:59,658 - src.api - INFO - Prediction request: {'sepal_length': 5.1, 'sepal_width': 3.5, 'petal_length': 1.4, 'petal_width': 0.2}
+2025-08-12 09:20:59,661 - src.api - INFO - Prediction result: setosa (confidence: 0.972)
+2025-08-12 09:20:59,661 - src.api - INFO - POST http://localhost:8000/predict - 200 - 0.004s
+2025-08-12 09:21:34,976 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.002s
+2025-08-12 09:21:35,073 - src.api - INFO - GET http://localhost:8000/favicon.ico - 404 - 0.000s
+2025-08-12 09:21:47,968 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.001s
+2025-08-12 09:21:55,675 - src.api - INFO - GET http://localhost:8000/docs - 200 - 0.001s
+2025-08-12 09:21:55,994 - src.api - INFO - GET http://localhost:8000/openapi.json - 200 - 0.006s
+2025-08-12 09:22:13,363 - src.api - INFO - GET http://localhost:8000/metrics - 200 - 0.001s
+2025-08-12 09:23:06,552 - src.api - INFO - GET http://localhost:8000/metrics - 200 - 0.001s
+2025-08-12 09:23:24,179 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.000s
+2025-08-12 09:23:34,125 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.001s
+2025-08-12 09:23:34,765 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.000s
+2025-08-12 09:23:52,465 - src.api - INFO - Prediction request: {'sepal_length': 10.0, 'sepal_width': 10.0, 'petal_length': 10.0, 'petal_width': 10.0}
+2025-08-12 09:23:52,468 - src.api - INFO - Prediction result: setosa (confidence: 0.358)
+2025-08-12 09:23:52,469 - src.api - INFO - POST http://localhost:8000/predict - 200 - 0.004s
+2025-08-12 09:24:11,994 - src.api - INFO - Prediction request: {'sepal_length': 10.0, 'sepal_width': 10.0, 'petal_length': 10.0, 'petal_width': 10.0}
+2025-08-12 09:24:11,997 - src.api - INFO - Prediction result: setosa (confidence: 0.358)
+2025-08-12 09:24:11,997 - src.api - INFO - POST http://localhost:8000/predict - 200 - 0.004s
+2025-08-12 09:24:22,135 - src.api - INFO - Prediction request: {'sepal_length': 10.0, 'sepal_width': 10.0, 'petal_length': 10.0, 'petal_width': 10.0}
+2025-08-12 09:24:22,137 - src.api - INFO - Prediction result: setosa (confidence: 0.358)
+2025-08-12 09:24:22,138 - src.api - INFO - POST http://localhost:8000/predict - 200 - 0.004s
+2025-08-12 09:24:54,564 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.001s
+2025-08-12 09:24:58,661 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.001s
+2025-08-12 09:25:14,239 - src.api - INFO - GET http://localhost:8000/model-info - 200 - 0.002s
+2025-08-12 09:25:15,962 - src.api - INFO - GET http://localhost:8000/model-info - 200 - 0.001s
+2025-08-12 09:25:25,447 - src.api - INFO - GET http://localhost:8000/metrics - 200 - 0.001s
+2025-08-12 09:26:55,760 - src.api - INFO - Model and preprocessor loaded successfully
+2025-08-12 09:27:00,305 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.000s
+2025-08-12 09:27:00,347 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.001s
+2025-08-12 09:27:00,765 - src.api - INFO - GET http://localhost:8000/model-info - 200 - 0.001s
+2025-08-12 09:27:00,970 - src.api - INFO - Prediction request: {'sepal_length': 5.1, 'sepal_width': 3.5, 'petal_length': 1.4, 'petal_width': 0.2}
+2025-08-12 09:27:00,974 - src.api - INFO - Prediction result: setosa (confidence: 0.972)
+2025-08-12 09:27:00,974 - src.api - INFO - POST http://localhost:8000/predict - 200 - 0.005s
+2025-08-12 10:00:56,888 - src.api - INFO - Model and preprocessor loaded successfully
+2025-08-12 10:01:01,406 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.000s
+2025-08-12 10:01:01,441 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.001s
+2025-08-12 10:01:01,625 - src.api - INFO - GET http://localhost:8000/model-info - 200 - 0.001s
+2025-08-12 10:01:01,802 - src.api - INFO - Prediction request: {'sepal_length': 5.1, 'sepal_width': 3.5, 'petal_length': 1.4, 'petal_width': 0.2}
+2025-08-12 10:01:01,806 - src.api - INFO - Prediction result: setosa (confidence: 0.972)
+2025-08-12 10:01:01,806 - src.api - INFO - POST http://localhost:8000/predict - 200 - 0.005s
+2025-08-12 10:01:25,292 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.001s
+2025-08-12 10:01:25,311 - src.api - INFO - GET http://localhost:8000/favicon.ico - 404 - 0.001s
+2025-08-12 10:01:38,818 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.001s
+2025-08-12 10:01:45,084 - src.api - INFO - GET http://localhost:8000/metrics - 200 - 0.005s
+2025-08-12 10:01:52,514 - src.api - INFO - GET http://localhost:8000/docs - 200 - 0.001s
+2025-08-12 10:01:52,908 - src.api - INFO - GET http://localhost:8000/openapi.json - 200 - 0.006s
+2025-08-12 10:02:04,799 - src.api - INFO - GET http://localhost:8000/ - 200 - 0.000s
+2025-08-12 10:02:13,969 - src.api - INFO - GET http://localhost:8000/health - 200 - 0.001s
+2025-08-12 10:02:23,919 - src.api - INFO - Prediction request: {'sepal_length': 10.0, 'sepal_width': 10.0, 'petal_length': 10.0, 'petal_width': 10.0}
+2025-08-12 10:02:23,921 - src.api - INFO - Prediction result: setosa (confidence: 0.358)
+2025-08-12 10:02:23,922 - src.api - INFO - POST http://localhost:8000/predict - 200 - 0.004s
+2025-08-12 10:02:36,469 - src.api - INFO - GET http://localhost:8000/model-info - 200 - 0.001s
+2025-08-12 10:02:47,965 - src.api - INFO - GET http://localhost:8000/metrics - 200 - 0.002s

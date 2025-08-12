@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deeprana/Desktop/mlops-iris-pipeline/mlruns/848009249233482878/b862a70752044eba86f78e9f333c63ea/artifacts
+end_time: 1754989864341
+entry_point_name: ''
+experiment_id: '848009249233482878'
+lifecycle_stage: active
+run_id: b862a70752044eba86f78e9f333c63ea
+run_name: svm
+run_uuid: b862a70752044eba86f78e9f333c63ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754989862357
+status: 3
+tags: []
+user_id: deeprana

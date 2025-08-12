@@ -1,0 +1,6 @@
+artifact_location: file:///Users/deeprana/Desktop/mlops-iris-pipeline/mlruns/848009249233482878
+creation_time: 1754989857871
+experiment_id: '848009249233482878'
+last_update_time: 1754989857871
+lifecycle_stage: active
+name: iris_classification

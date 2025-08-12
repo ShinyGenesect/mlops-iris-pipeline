@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1754989864332
+current_stage: Production
+description: null
+last_updated_timestamp: 1754989864344
+name: iris_svm
+run_id: b862a70752044eba86f78e9f333c63ea
+run_link: null
+source: file:///Users/deeprana/Desktop/mlops-iris-pipeline/mlruns/848009249233482878/b862a70752044eba86f78e9f333c63ea/artifacts/svm
+status: READY
+status_message: null
+storage_location: file:///Users/deeprana/Desktop/mlops-iris-pipeline/mlruns/848009249233482878/b862a70752044eba86f78e9f333c63ea/artifacts/svm
+user_id: null
+version: 1
