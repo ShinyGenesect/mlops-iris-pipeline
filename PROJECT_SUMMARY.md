@@ -183,22 +183,6 @@ mlflow ui
 4. **Dependency Scanning**: Automated vulnerability scanning in CI/CD
 5. **Secrets Management**: GitHub secrets for CI/CD credentials
 
-## Future Enhancements
-
-### Immediate (Bonus Features)
-- [ ] **Advanced Input Validation**: Schema-based validation with Pydantic
-- [ ] **Prometheus Dashboard**: Grafana integration for monitoring
-- [ ] **Model Retraining**: Automated retraining triggers on new data
-- [ ] **A/B Testing**: Model comparison framework
-- [ ] **Advanced Monitoring**: Drift detection and alerting
-
-### Long-term
-- [ ] **Kubernetes Deployment**: Production-grade orchestration
-- [ ] **Multi-model Serving**: Support for multiple model versions
-- [ ] **Real-time Streaming**: Kafka integration for streaming predictions
-- [ ] **Advanced MLOps**: Kubeflow or MLflow pipelines integration
-- [ ] **Model Explainability**: SHAP/LIME integration for interpretability
-
 ## Conclusion
 
 This MLOps pipeline successfully demonstrates a production-ready machine learning workflow with:
